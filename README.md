@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naisuu&count_private=true&hide=jupyter%20notebook&title_color=ffffff&text_color=c9cacc" />
+
 
 <!--
 **naisuu/naisuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
