@@ -1,5 +1,9 @@
 ### Hey
 
+<div align="center">
+  <a href="https://juliuscathalina.netlify.app/"><img src="github_banner.png" alt="Julius' Github Banner"></a> 
+</div>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naisuu&count_private=true&hide=jupyter%20notebook&title_color=ffffff&text_color=c9cacc" />
 
 
