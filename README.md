@@ -5,8 +5,8 @@
   
   ## 👋 Hoi! Kon ta bai?
   
-  My name is Julius Cathalina, I am an Analyst Programmer and Software Developer based in the Netherlands!
-  I am currently finishing up my Master's degree in Computer Science (Bioinformatics spec.) at Universiteit Leiden, where I also work as a Research Assistant.
+  My name is Julius Cathalina, I am a Data Scientist / Software Developer based in the Netherlands!
+  I am currently finishing up my Master's degree in Computer Science (Bioinformatics spec.) at Universiteit Leiden, where I also used to work as a Research Assistant.
   
   <br>
   
@@ -26,9 +26,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naisuu&repo=faers-drug-norm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
+  
 <a href="https://github.com/naisuu/uspto-downloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naisuu&repo=uspto-downloader&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naisuu&repo=drugex-plus-r&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
  
 </div>
