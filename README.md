@@ -27,7 +27,7 @@
 </a>
 
   
-<a href="https://github.com/naisuu/uspto-downloader">
+<a href="https://github.com/naisuu/drugex-plus-r">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naisuu&repo=drugex-plus-r&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
  
