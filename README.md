@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://juliuscathalina.netlify.app/"><img src="github_banner_m.png" alt="Julius' Github Banner"></a>
+  <a href="https://juliuscathalina.netlify.app/"><img src="github_banner_m_2.png" alt="Julius' Github Banner"></a>
   
   <br>
   
