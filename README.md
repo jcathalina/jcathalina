@@ -5,8 +5,7 @@
   
   ## 👋 Hoi! Kon ta bai?
   
-  My name is Julius Cathalina, I am a Data Scientist / Software Developer based in the Netherlands!
-  I am currently finishing up my Master's degree in Computer Science (Bioinformatics spec.) at Universiteit Leiden, where I also used to work as a Research Assistant.
+  My name is Julius Cathalina, I am a Data Scientist / Software Engineer based in the Netherlands.
   
   <br>
   
