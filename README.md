@@ -1,15 +1,6 @@
-<div align="center">
-  <a href="https://juliuscathalina.netlify.app/"><img src="github_banner_m_2.png" alt="Julius' Github Banner"></a>
-  
+<div align="center">  
   <br>
-  
-  ## 👋 Hoi! Kon ta bai?
-  
   My name is Julius Cathalina, I am a Data Scientist / Software Engineer based in the Netherlands.
-  
-  <br>
-  
-  - 👯 I’m looking to collaborate on projects that focus on combining scientific code with modern software engineering principles.
   
   ## 📈 GitHub Stats
 
