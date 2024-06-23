@@ -1,6 +1,6 @@
 <div align="center">  
   <br>
-  My name is Julius Cathalina, I am a Data Scientist / Software Engineer based in the Netherlands.
+  Data Scientist / Software Engineer based in the Netherlands.
   
   ## 📈 GitHub Stats
 
