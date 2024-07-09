@@ -1,6 +1,8 @@
 <div align="center">  
   <br>
-  Data Scientist / Software Engineer based in the Netherlands.
+  - Data Scientist @ CGE
+  - PhD Candidate @ Leiden University
+  - Freelance Software Engineer @ ByteSage Tech
   
   ## 📈 GitHub Stats
 
