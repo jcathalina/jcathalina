@@ -1,8 +1,11 @@
 <div align="center">  
   <br>
-  - Data Scientist @ CGE
-  - PhD Candidate @ Leiden University
-  - Freelance Software Engineer @ ByteSage Tech
+  <ul>
+    <li>Data Scientist</li>
+    <li>PhD Candidate Computational Drug Discovery @ Leiden University</li>
+    <li>Freelance Software Engineer @ ByteSage Tech</li>
+  </ul>
+
   
   ## 📈 GitHub Stats
 
